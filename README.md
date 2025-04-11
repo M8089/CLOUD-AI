@@ -1,4 +1,4 @@
-🌟 CLOUD AI 🌟
+https://github.com/DEVELOPER-BERA/CLOUD-AI.git🌟 CLOUD AI 🌟
 
 <p align="center">
   <img src="https://files.catbox.moe/7jt69h.jpg" width="500"/>
@@ -93,7 +93,7 @@ menu✅
 
 ---
 
-API Pairing Link
+API Pairing LinkCLOUD-AI~VdRHFBBC#2bBFRUw7618Vgxxrg60E99PFs-JIbJ3ErCVxL_XTX9k
 
 CLOUD AI API Pairing
 
